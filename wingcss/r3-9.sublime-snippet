@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="row">
+  <div class="col-3">THREE</div>
+  <div class="col-9">NINE</div>
+ </div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>col</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>Wing CSS:column 3|9 </description>
+</snippet>
