@@ -3,3 +3,7 @@
 
 so  I try to create 
 sublimetext snippets for WING
+
+#How to use
+
+copy wingcss-snippet folder to SublimeText folder \Data\Packages\User
