@@ -4,6 +4,8 @@
 so  I try to create 
 sublimetext snippets for WING
 
+Thanks KingPixil (https://github.com/KingPixil/wing/fork)
+
 #How to use
 
 copy wingcss-snippet folder to SublimeText folder \Data\Packages\User
