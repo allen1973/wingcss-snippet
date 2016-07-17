@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<button class="btn btn-outline">{$1:outline}</button> 
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>button</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<description>Wing CSS:outline btn</description>
+	<scope>source.php,text.html,source.jade</scope>
+</snippet>

@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+<!-- .container should be wrapping around the grid -->
+<div class="container">
+
+    <!-- For each row, give the class "row" -->
+    <div class="row">
+        <!-- for columns, add the class col-x, there are twelve -->
+        <!-- columns in total, and nesting is not recommended -->
+        <div class="col-6">six</div>
+        <div class="col-6">six</div>
+    </div>
+</div>
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>container</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+    <description>Wing CSS:div container</description>
+</snippet>

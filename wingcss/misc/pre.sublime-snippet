@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<!-- Blocks Of Code Should be in <code> wrapped with <pre> -->
+<pre><code>${1:
+function sayHello() {
+    console.log("Hello Wing");
+}
+}</code></pre>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pre</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+		<description>Wing CSS:Blocks Of Code</description>
+</snippet>

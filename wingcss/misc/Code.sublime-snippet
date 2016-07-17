@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<!-- Single Line Code Examples should be wrapped in <code> -->
+<code>console.log("Hello World");</code>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>code</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>Wing CSS: Single Line Code</description>
+</snippet>

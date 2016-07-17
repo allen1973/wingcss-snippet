@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<div class="row">
+  <div class="col-${1:4}">${1:4}</div>
+  <div class="col-${2:4}">${2:4}</div>
+  <div class="col-${3:4}">${3:4}</div>
+ </div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>col</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<description>Wing CSS:column 4|4|4</description>
+	<scope>source.php,text.html,source.jade</scope>
+</snippet>

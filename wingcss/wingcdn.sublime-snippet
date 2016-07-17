@@ -1,0 +1,14 @@
+<snippet>
+<content><![CDATA[
+/*Link via CDN
+CDNJS Link - https://cdnjs.cloudflare.com/ajax/libs/wingcss/0.1.4/wing.min.css
+JSDelivr Link - https://cdn.jsdelivr.net/wing/0.1.4/wing.min.css
+*/
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/wingcss/0.1.4/wing.min.css"/>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>wingcdn</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<description>Wing CSS:cdn</description>
+	<scope>source.php,text.html,source.jade</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<button style="background:${1:#40d5de};">HATE</button>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>button</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<description>Wing CSS: Color Button</description>
+	<scope>source.php,text.html,source.jade</scope>
+</snippet>
