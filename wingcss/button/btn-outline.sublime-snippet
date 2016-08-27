@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<button class="btn btn-outline">{$1:outline}</button> 
+<button class="btn btn-outline-inverted">{$1:outline inverted}</button>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>button</tabTrigger> 
