@@ -1,0 +1,12 @@
+{
+
+			"name": "wing css snippet",
+			"details": "https://github.com/allen1973/wingcss-snippet",
+			"author": ["what", "design"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+		
+}
